@@ -1,0 +1,12 @@
+Qus 1 : Write a blog on Difference between HTTP1.1 vs HTTP2
+  Ans : HTTP - Hyper Text Transfer Protocal.
+        HTTP1.1 is loads the resourses one after one. In this protocal anyone resourse blocked then forther resourses can't loaded. Its Limited version. Once collected data from the server
+                its located in claint computer as cache in temporary.
+        HTTP2 is able to send all the resourses at once in a time using TCP ( Transmission Control Protocal). in this case any resourse can't blocks others. There is useing Concurrency.
+
+Qus 2 : Write a blog about objects and its internal representation in Javascript
+  Ans : Object is one of the Datatypes in JavaScripts. Which is the referance type includes collection of data in the below format Key : Vslues.
+
+
+
+
